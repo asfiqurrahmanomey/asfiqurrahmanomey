@@ -9,13 +9,13 @@
 
 - Hi, I am Currently Working On [PrestaShop Ecommerce Website](https://srv46496.seohost.com.pl/iloft/)
 
-- 👨‍💻 Visit my portfolio Website [https://asfiqurrahmanomey.netlify.app/](https://asfiqurrahmanomey.netlify.app/)
+- 👨‍💻 Visit my portfolio Website [https://asfiqurrahmanomey.com](https://asfiqurrahmanomey.com/)
 
 - 💬 Ask me about **React, Node, Express, Redux, MongoDb, PrestaShop, WordPress**
 
 - 📫 How to reach me **https://www.linkedin.com/in/asfiqurrahmanomey/**
 
-- 📄 Know about my experiences [https://asfiqurrahmanomey.netlify.app/](https://asfiqurrahmanomey.netlify.app/)
+- 📄 Know about my experiences [https://asfiqurrahmanomey.com](https://asfiqurrahmanomey.com)
 
 - ⚡ Fun fact **I love to fix details**
 
