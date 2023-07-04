@@ -7,8 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- Hi, I am Currently Working On [Website]([https://srv46496.seohost.com.pl/iloft/](https://plan-b.net.pl/))
-
+- Hi, I am Currently Working On [Website](https://plan-b.net.pl/)
 - 👨‍💻 Visit my portfolio Website [https://asfiqurrahmanomey.com](https://asfiqurrahmanomey.com/)
 
 - 💬 Ask me about **React, Node, Express, Redux, MongoDb, PrestaShop, WordPress**
